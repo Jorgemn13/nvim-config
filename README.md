@@ -31,3 +31,7 @@ Built with [LazyVim](https://www.lazyvim.org)
   ```sh
   nvim
   ```
+
+- If you want the telescope.nvim plugin to work you also need to install [ripgrep](https://github.com/BurntSushi/ripgrep)
+
+
