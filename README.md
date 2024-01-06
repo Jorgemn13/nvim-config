@@ -1,6 +1,6 @@
 # 💤 LazyVim config
 
-Built with [LazyVim]("https://www.lazyvim.org/")
+Built with [LazyVim](https://www.lazyvim.org)
 
 - Make a backup of your current Neovim files:
 
