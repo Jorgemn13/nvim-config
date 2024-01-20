@@ -5,6 +5,9 @@
 -- don't hide json strings
 vim.opt.conceallevel = 0
 
+-- set cursor to block in insert mode
+vim.opt.guicursor = ""
+
 -- added this for wsl clipboard
 if vim.fn.has("wsl") == 1 then
   vim.g.clipboard = {
